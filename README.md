@@ -17,6 +17,5 @@ Trojan 一键安装自动脚本
 
 脚本安装命令
 
-curl -O https://raw.githubusercontent.com/V2RaySSR/Trojan/master/Trojan.sh && chmod  x trojan.sh && ./trojan.sh
+bash <(curl -s -L https://github.com/hellen-brother/Trojan/raw/main/Trojan.sh)
 
-wget --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/Trojan/master/Trojan.sh && chmod +x Trojan.sh && ./Trojan.sh
